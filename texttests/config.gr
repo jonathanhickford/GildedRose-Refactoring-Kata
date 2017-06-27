@@ -26,6 +26,10 @@ interpreter:java
 #executable:${TEXTTEST_CHECKOUT}/perl/texttest_fixture.pl
 #interpreter:perl
 
+# Settings for the Elixir version
+#executable:${TEXTTEST_CHECKOUT}/elixir/texttest_fixture.sh
+#interpreter:bash
+
 # turn on one of these if you prefer them to notepad or emacs.
 [view_program]
 *:mate
